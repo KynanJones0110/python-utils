@@ -1,7 +1,5 @@
 # UAL JSON Summary Generator
 
-# Total count of operation, workload and recordtype
-
 # For when conducting IR activities against M365, especially if you are pulling a scoped dataset using Powershell or one of the APIs, as the name suggests, it must be JSON.
 
 import json
